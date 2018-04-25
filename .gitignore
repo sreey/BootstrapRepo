@@ -5,3 +5,9 @@ ProjectSPA/node_modules
 
 # misc
 ProjectSPA/package-lock.json
+
+
+#PROJECTSPA DEV Folders
+ProjectSPA/src/js
+ProjectSPA/src/fonts
+ProjectSPA/src/css
